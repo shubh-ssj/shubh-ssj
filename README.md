@@ -43,9 +43,9 @@ NAME        : Shubh
 ALIAS       : SSJ
 PRONOUNS    : he/him
 NATION      : India [IN]
-OCCUPATION  : Python Developer  |  Web Developer  |  Tool Builder
+SKILLS  : Python Developer  |  Web Developer  |  Tool Builder
 CURRENT_OP  : FFmpex v2.4 — a GUI wrapper for FFmpeg
-PHILOSOPHY  : "build tools that just work."
+PHILOSOPHY  : "Build tools that just work."
 CONTACT     : magnusshadowmend@gmail.com
 ```
 
